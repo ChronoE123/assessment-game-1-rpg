@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assiment game 1", "assiment game 1\assiment game 1.vcxproj", "{515ED229-F1CE-4AAC-A865-5D5B05994074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Debug|x64.ActiveCfg = Debug|x64
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Debug|x64.Build.0 = Debug|x64
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Debug|x86.ActiveCfg = Debug|Win32
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Debug|x86.Build.0 = Debug|Win32
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Release|x64.ActiveCfg = Release|x64
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Release|x64.Build.0 = Release|x64
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Release|x86.ActiveCfg = Release|Win32
+		{515ED229-F1CE-4AAC-A865-5D5B05994074}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D16202D6-AE65-47DB-9F83-98A84A46C129}
+	EndGlobalSection
+EndGlobal
